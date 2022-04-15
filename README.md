@@ -6,7 +6,7 @@ A keras model and tweet scraper that gathers tweets from various accounts (in th
 
 ## How to Install and Run:
 
-Pull this repository and first run get-twitter-data.py. Then, run bot.py.
+Pull this repository and first run get-twitter-data.py. Then, run tweetbot.py.
 
 ## Future Plans:
 
